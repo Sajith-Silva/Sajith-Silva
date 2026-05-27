@@ -9,9 +9,11 @@
 
 ## 🎯 About me
 
-I'm an IT professional actively transitioning into cybersecurity. I've built a strong foundation in security monitoring, incident response, and vulnerability management — and I hold industry-recognised certifications that reflect my commitment to the field.
+I'm an IT professional currently working as a Network Support Analyst while actively transitioning into a dedicated cybersecurity role. In my current position I manage the full Microsoft security stack — including Defender for Endpoint, Identity, Cloud Apps, and Office 365 — and have driven measurable outcomes including a 50% improvement in threat detection rates and a 40% reduction in high-risk endpoint vulnerabilities.
 
-I'm hands-on with Microsoft Defender, Entra ID, and SIEM platforms, and I'm passionate about identity-based threat investigation and security control implementation.
+My day-to-day involves administering Microsoft Intune for device lifecycle management, designing Conditional Access policies in Entra ID, and conducting root cause analysis on suspicious identity and M365 login events. I also lead vulnerability assessments using Nessus, Wireshark, and Nmap, and manage patch cycles for Windows environments.
+
+Beyond the tools, I've implemented and maintained ISO 27001-aligned security controls that improved network resilience by 30%, and I've contributed to ICT security uplift projects across cloud and on-premises infrastructure. I thrive in cross-functional teams and enjoy bridging the gap between security, infrastructure, and service delivery.
 
 ---
 
