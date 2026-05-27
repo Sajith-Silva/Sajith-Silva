@@ -19,7 +19,7 @@ I'm hands-on with Microsoft Defender, Entra ID, and SIEM platforms, and I'm pass
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-blue?style=flat-square)
-![ISMS](https://img.shields.io/badge/ISMS-Lead%20Auditor-green?style=flat-square)
+
 
 ---
 
