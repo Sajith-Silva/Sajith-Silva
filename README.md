@@ -50,7 +50,7 @@ Beyond the tools, I've implemented and maintained ISO 27001-aligned security con
 
 I'm always happy to connect with fellow security enthusiasts, mentors, or hiring managers!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://www.linkedin.com/in/sajith-gajasinghege)
 
 ---
 
